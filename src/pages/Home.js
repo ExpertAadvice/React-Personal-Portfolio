@@ -19,21 +19,28 @@ function Home() {
       <div className="skills">
         <h1> Skills</h1>
         <ol className="list">
+        <li className="item">
+            <h2> Mobile Development</h2>
+            <span>
+              Android | Kotlin | Java | Android Architecture(MVVM) | Android SDK | Jetpack Compose | 
+              Retrofit | Dagger-Hilt | Restful APIs | Responsive UI | React Native.
+            </span>
+          </li>
           <li className="item">
             <h2> Front-End</h2>
             <span>
-              ReactJS, Redux, HTML, CSS, React Native, NPM, MaterialUI.
+              ReactJS | Redux | HTML | CSS | NPM | MaterialUI.
             </span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              NodeJS, Java, MySQL, MongoDB.
+              NodeJS | Java | MySQL | MongoDB.
             </span>
           </li>
           <li className="item">
             <h2>Languages</h2>
-            <span>Kotlin, Java, JavaScript.</span>
+            <span>Kotlin | Java | JavaScript.</span>
           </li>
         </ol>
       </div>
